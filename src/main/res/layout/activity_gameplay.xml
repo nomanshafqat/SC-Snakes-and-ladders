@@ -6,11 +6,4 @@
     android:layout_height="match_parent"
     tools:context="com.example.noman.snakeandladders.Gameplay">
 
-    <Button
-        android:id="@+id/ROLL"
-        android:layout_width="206dp"
-        android:layout_height="52dp"
-        android:text="ROLL"
-        tools:layout_editor_absoluteX="100dp"
-        tools:layout_editor_absoluteY="387dp" />
 </android.support.constraint.ConstraintLayout>
